@@ -2,7 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f358a5ec-2194-4c66-8201-5d15faa5e860" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObject/makerWallet.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/makerWallet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-51-59 Wallet Transaction.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-52-08 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-52-45 Wallet Transaction.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-53-09 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-53-11 Sender Details.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-53-16 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-53-28 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-53-30 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-53-31 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-53-33 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-53-34 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-53-36 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-53-38 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-53-40 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-53-48 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-53-56 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-53-59 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-54-01 Confirmation Page - Top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-54-03 Confirmation Page - Bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-54-04 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-54-13 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-54-21 Receipt Page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 09-54-30 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 10-48-16 Wallet Transaction.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 10-48-24 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 10-48-40 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 10-48-48 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 10-49-00 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 10-49-07 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 10-49-15 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 10-49-22 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 10-49-24 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 10-49-33 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 10-49-41 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 10-49-43 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 10-49-51 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 10-49-59 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 10-50-02 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 10-50-03 Sender Details.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/05-24-2019 10-50-14 Unable to find element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestScripts/TransactionMaker/test_transactionMaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestScripts/TransactionMaker/test_transactionMaker.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +57,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PageObject/Objects/maker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="221">
+              <caret line="13" column="85" selection-start-line="13" selection-start-column="85" selection-end-line="13" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestScripts/Login/test_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -24,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PageObject/makerForm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="39" column="59" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
+            <state relative-caret-position="289">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -34,12 +85,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestScripts/Login/test_login.py">
+        <entry file="file://$PROJECT_DIR$/TestScripts/TransactionMaker/test_transactionMaker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="357">
+              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PageObject/makerWallet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-250">
+              <caret line="98" column="29" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -48,17 +111,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PageObject/Objects/receiver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
+            <state relative-caret-position="318">
               <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PageObject/Objects/others.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -66,7 +120,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PageObject/Objects/sender.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
+            <state relative-caret-position="-102">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
@@ -75,8 +129,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Utility/actionKeys.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="86" column="55" lean-forward="true" selection-start-line="86" selection-start-column="55" selection-end-line="86" selection-end-column="55" />
+            <state relative-caret-position="459">
+              <caret line="117" column="25" selection-start-line="117" selection-start-column="25" selection-end-line="117" selection-end-column="25" />
               <folding>
                 <element signature="e#0#64#0" expanded="true" />
               </folding>
@@ -84,34 +138,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="93" column="14" lean-forward="true" selection-start-line="93" selection-start-column="14" selection-end-line="93" selection-end-column="14" />
+              <caret line="93" column="14" selection-start-line="93" selection-start-column="14" selection-end-line="93" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TestScripts/TransactionMaker/test_transactionMaker.py">
+        <entry file="file://$PROJECT_DIR$/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="27" />
+            <state relative-caret-position="173">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PageObject/makerPesonet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
+                <element signature="e#0#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -153,7 +195,6 @@
         <option value="$PROJECT_DIR$/PageObject/Objects/amountAndPurpose.py" />
         <option value="$PROJECT_DIR$/PageObject/formComponent.py" />
         <option value="$PROJECT_DIR$/PageObject/transactionMaker.py" />
-        <option value="$PROJECT_DIR$/PageObject/makerWallet.py" />
         <option value="$PROJECT_DIR$/PageObject/makerForm.py" />
         <option value="$PROJECT_DIR$/conftest.py" />
         <option value="$PROJECT_DIR$/PageObject/makerPesonet.py" />
@@ -161,12 +202,13 @@
         <option value="$PROJECT_DIR$/PageObject/reuseGlobal.py" />
         <option value="$PROJECT_DIR$/PageObject/Objects/sender.py" />
         <option value="$PROJECT_DIR$/PageObject/Objects/receiver.py" />
-        <option value="$PROJECT_DIR$/TestScripts/TransactionMaker/test_transactionMaker.py" />
         <option value="$PROJECT_DIR$/PageObject/makerInstapay.py" />
         <option value="$PROJECT_DIR$/Utility/openpyxl.py" />
-        <option value="$PROJECT_DIR$/PageObject/Objects/maker.py" />
         <option value="$PROJECT_DIR$/Utility/actionKeys.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/TestScripts/TransactionMaker/test_transactionMaker.py" />
+        <option value="$PROJECT_DIR$/PageObject/makerWallet.py" />
+        <option value="$PROJECT_DIR$/PageObject/Objects/maker.py" />
       </list>
     </option>
   </component>
@@ -184,7 +226,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,10 +233,21 @@
               <item name="Project_Siargao" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project_Siargao" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Project_Siargao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project_Siargao" type="462c0819:PsiDirectoryNode" />
+              <item name="PageObject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project_Siargao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project_Siargao" type="462c0819:PsiDirectoryNode" />
+              <item name="Screenshots" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,7 +291,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22991072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -252,17 +303,34 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.23567921" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.35679215" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22991072" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.35679215" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Screenshots/05-21-2019 16-44-34 Wallet Transaction.png" />
-    <entry file="file://$PROJECT_DIR$/Screenshots/05-21-2019 17-25-18 Unable to find element.png" />
     <entry file="file://$PROJECT_DIR$/Screenshots/05-21-2019 17-29-28 Receipt Page.png" />
     <entry file="file://$PROJECT_DIR$/Screenshots/05-21-2019 17-47-50 Receipt Page.png" />
     <entry file="file://$PROJECT_DIR$/Screenshots/05-21-2019 18-07-51 Receipt Page.png" />
@@ -321,16 +389,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PageObject/makerWallet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="90" column="32" selection-start-line="90" selection-start-column="8" selection-end-line="90" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Screenshots/05-23-2019 14-52-46 Instapay Transaction.png" />
     <entry file="file://$PROJECT_DIR$/Screenshots/05-23-2019 14-53-05 Unable to find element.png" />
     <entry file="file://$PROJECT_DIR$/Screenshots/05-23-2019 15-27-47 Unable to find element.png" />
@@ -372,16 +430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PageObject/makerPesonet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -392,50 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestScripts/TransactionMaker/test_transactionMaker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PageObject/makerForm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="39" column="59" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PageObject/Objects/maker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestScripts/Login/test_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PageObject/Objects/receiver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PageObject/Objects/others.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -443,27 +447,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PageObject/Objects/sender.py">
+    <entry file="file://$PROJECT_DIR$/.pytest_cache/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObject/Objects/receiver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Utility/actionKeys.py">
+    <entry file="file://$PROJECT_DIR$/PageObject/Objects/sender.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="86" column="55" lean-forward="true" selection-start-line="86" selection-start-column="55" selection-end-line="86" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#64#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="93" column="14" lean-forward="true" selection-start-line="93" selection-start-column="14" selection-end-line="93" selection-end-column="14" />
+          <caret line="93" column="14" selection-start-line="93" selection-start-column="14" selection-end-line="93" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestScripts/Login/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utility/actionKeys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="117" column="25" selection-start-line="117" selection-start-column="25" selection-end-line="117" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObject/Objects/maker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="85" selection-start-line="13" selection-start-column="85" selection-end-line="13" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObject/makerForm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestScripts/TransactionMaker/test_transactionMaker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObject/makerWallet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-250">
+          <caret line="98" column="29" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

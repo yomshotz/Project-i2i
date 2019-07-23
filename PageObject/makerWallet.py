@@ -61,7 +61,7 @@ class TransMakerWallet(object):
         time.sleep(1)
         self.run.click_element(self.findBy, self.sender.fld_ID)
         self.run.click_element(self.findBy, self.sender.fld_ID_specific)
-        time.sleep(1)
+        time.sleep(2)
         self.run.find_element_and_input(self.findBy, self.sender.fld_ID_number, 1, "123123")
         time.sleep(1)
         self.run.click_element(self.findBy, self.sender.fld_funds)
@@ -104,9 +104,9 @@ class TransMakerWallet(object):
 
     def settingUpSender(self):
         self.setSenderInfo()
-        self.reuse.clickNext(1)
-        self.photo.takePhoto(1)
-        self.reuse.clickNext(1)
+        self.reuse.clickNext(2)
+        self.photo.takePhoto(2)
+        self.reuse.clickNext(2)
 
     def settingUpReceiver(self):
         time.sleep(2)

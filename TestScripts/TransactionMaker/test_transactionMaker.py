@@ -11,14 +11,16 @@ class TestLoginForm:
         driver = self.driver
         run = Login(driver)
         transMakerWallet = TransMakerWallet(driver)
-        transMakerPesonet = TransMakerPesonet(driver)
-        transMakerInstapay = TransMakerInstapay(driver)
 
-        username = "transmaker@testorg.com"
+        # transMakerPesonet = TransMakerPesonet(driver)
+        # transMakerInstapay = TransMakerInstapay(driver)
+
+        username = "txnmaker@fairbank.com"
         password = "P@ssw0rd123!"
 
         run.login(username, password)
         transMakerWallet.makeWalletTransaction()
+
         #transMakerPesonet.makePesonetTransaction()
         #transMakerInstapay.makeInstapayTransaction()
 
